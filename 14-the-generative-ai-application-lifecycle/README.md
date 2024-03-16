@@ -39,7 +39,7 @@ As you may note, this is different from the usual Lifecycles from MLOps. LLMs ha
 
 For instance, take a look how we ideate. Using prompt engineering to experiment with various LLMs to explore possibilities to tests if their Hypothesis could be correct.
 
-Note that this is not linear, but integrated loops, iterative and with an overacrching cycle.
+Note that this is not linear, but integrated loops, iterative and with an overarching cycle.
 
 How could we explore those steps? Let's step into detail in how could we build a lifecycle.
 
